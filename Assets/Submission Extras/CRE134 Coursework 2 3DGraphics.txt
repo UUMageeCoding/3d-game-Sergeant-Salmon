@@ -1,0 +1,23 @@
+CRE134 Coursework 2 3DGraphics
+
+https://youtu.be/kL4qufHKQkk
+
+Created World Assets:
+
+	Wood Log Cabin
+	Barrels
+	Swords
+	Magic Mirror with synced portals that show the view of the other side
+	Landscape
+	Mountains
+	Layout	
+	Textures
+	Audio Manager System that switches between inside and outside
+	Mirror Particles
+	Lighting
+	Fog
+	World Boundary
+	Dungeon
+	
+	
+
